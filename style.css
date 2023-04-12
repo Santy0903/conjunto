@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.white{
+    color: white;
+}
+.color{
+    color: white;
+}
+.titulo{
+    background-color:olive;
+    
+}
+.noticias{
+    background-color: brown;
+}
+.final{
+    background-color: rgba(20, 18, 18, 0.897);
+}
